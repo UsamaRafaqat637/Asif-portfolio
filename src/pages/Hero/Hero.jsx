@@ -55,7 +55,7 @@ const profile = {
     title: 'Full-Stack Developer | Problem Solver',
     skills: [
         'React', 'NextJS', 'Redux', 'Express',
-        'MySQL', 'Tailwind CSS', 'Bootstra[',
+        'MySQL', 'Tailwind CSS', 'Bootstrap',
         'Github', 'Git', 'REST APIs'
     ],
     hardWorker: true,
