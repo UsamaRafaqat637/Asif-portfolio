@@ -212,7 +212,7 @@ const profile = {
               {/* Description */}
               <div className="relative max-w-xl mb-8 sm:mb-12">
                 <p className="text-base leading-relaxed sm:text-xl text-gray-300/90">
-                  JavaScript lover 🚀 | React Lover 🔧 | Crafting frameworks
+                  Python Developer 🚀 | React Lover 🔧 | Crafting frameworks
                   and coding the future 💻✨
                 </p>
               </div>
