@@ -54,7 +54,7 @@ const profile = {
     name: 'Mian Asif',
     title: 'Full-Stack Developer | Problem Solver',
     skills: [
-        'React', 'NextJS', 'Redux', 'Express',
+        'React', 'NextJS', 'Redux', 'Python',
         'MySQL', 'Tailwind CSS', 'Bootstrap',
         'Github', 'Git', 'REST APIs'
     ],
